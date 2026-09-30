@@ -13,7 +13,7 @@
 
 ## GitHub公開後の確認
 
-- [ ] `crm-pro-showcase` がPublicである
-- [ ] GitHub上でREADMEが正しく表示される
-- [ ] すべての想定ファイルがコミットされている
-- [ ] 公開後も `crm-pro` がPrivateである
+- [x] `crm-pro-showcase` がPublicである
+- [x] GitHub上でREADMEが正しく表示される
+- [x] すべての想定ファイルがコミットされている
+- [x] 公開後も `crm-pro` がPrivateである
