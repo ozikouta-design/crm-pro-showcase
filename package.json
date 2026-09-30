@@ -1,0 +1,13 @@
+{
+  "name": "crm-pro-showcase",
+  "version": "1.0.0",
+  "private": false,
+  "description": "採用選考向けCRM-Proプロジェクトショーケース",
+  "scripts": {
+    "test": "node --experimental-strip-types --test src/examples/follow-up-priority.test.ts"
+  },
+  "engines": {
+    "node": ">=22.6.0"
+  },
+  "type": "module"
+}
