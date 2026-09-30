@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="940" viewBox="0 0 1400 940" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2f6fb"/><stop offset="1" stop-color="#e9eff7"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#23364d" flood-opacity=".08"/></filter>
+    <style>text{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif} .muted{fill:#718096}.ink{fill:#18263b}.small{font-size:15px}.body{font-size:17px}.label{font-size:14px;letter-spacing:.04em}.title{font-size:29px;font-weight:700}.cardtitle{font-size:19px;font-weight:700}</style>
+  </defs>
+  <rect width="1400" height="940" fill="url(#bg)"/>
+  <rect x="20" y="20" width="1360" height="900" rx="22" fill="#fff" stroke="#dce4ee" filter="url(#shadow)"/>
+  <rect x="20" y="20" width="1360" height="76" rx="22" fill="#fff"/>
+  <path d="M20 96H1380" stroke="#e6ebf2"/>
+  <rect x="48" y="40" width="38" height="38" rx="12" fill="#4659cf"/>
+  <path d="M58 59h18M67 50v18" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="99" y="66" class="ink" font-size="23" font-weight="700">CRM-Pro</text>
+  <text x="210" y="65" class="muted small">営業の状況を、ひとつの流れに。</text>
+  <rect x="1133" y="40" width="216" height="36" rx="18" fill="#fff5d9" stroke="#f2dfaa"/>
+  <circle cx="1153" cy="58" r="5" fill="#d79c18"/>
+  <text x="1167" y="63" fill="#815d08" font-size="14" font-weight="700">公開用デモ ｜ 架空データ</text>
+  <rect x="20" y="96" width="230" height="824" fill="#17263d"/>
+  <text x="48" y="139" fill="#8798b0" class="label" font-weight="700">WORKSPACE</text>
+  <text x="49" y="186" fill="#fff" class="body" font-weight="700">メニュー</text>
+  <rect x="36" y="207" width="198" height="48" rx="10" fill="#293b59"/>
+  <circle cx="59" cy="231" r="7" fill="#9fafff"/><text x="80" y="237" fill="#fff" class="body" font-weight="700">ホーム</text>
+  <circle cx="59" cy="285" r="7" fill="#72839d"/><text x="80" y="291" fill="#c4cfdd" class="body">顧客一覧</text>
+  <circle cx="59" cy="339" r="7" fill="#72839d"/><text x="80" y="345" fill="#c4cfdd" class="body">案件一覧</text>
+  <circle cx="59" cy="393" r="7" fill="#72839d"/><text x="80" y="399" fill="#c4cfdd" class="body">次回アクション</text>
+  <rect x="40" y="844" width="190" height="1" fill="#34445e"/>
+  <circle cx="61" cy="881" r="17" fill="#435678"/><text x="61" y="886" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">A</text>
+  <text x="88" y="878" fill="#fff" class="small" font-weight="700">担当者 A</text>
+  <text x="88" y="898" fill="#9ba9bd" font-size="12">ショーケース用の表示</text>
+
+  <g>
+    <text x="282" y="145" class="muted small">ホーム / ダッシュボード</text>
+    <text x="282" y="190" class="ink title">営業の状況をひと目で</text>
+    <text x="282" y="220" class="muted body">顧客情報、案件、次の対応をまとめて確認する画面イメージ</text>
+    <rect x="1157" y="166" width="171" height="40" rx="10" fill="#fff" stroke="#dce4ee"/><text x="1176" y="192" class="ink small">今週の状況　⌄</text>
+    <g filter="url(#shadow)">
+      <rect x="282" y="250" width="326" height="128" rx="16" fill="#fff" stroke="#edf1f6"/>
+      <rect x="628" y="250" width="326" height="128" rx="16" fill="#fff" stroke="#edf1f6"/>
+      <rect x="974" y="250" width="354" height="128" rx="16" fill="#fff" stroke="#edf1f6"/>
+    </g>
+    <text x="306" y="285" class="muted small">進行中の案件</text><text x="306" y="338" class="ink" font-size="38" font-weight="700">08</text><text x="369" y="338" fill="#6676db" class="small">サンプル表示</text>
+    <text x="652" y="285" class="muted small">次回アクション</text><text x="652" y="338" class="ink" font-size="38" font-weight="700">12</text><text x="715" y="338" fill="#6676db" class="small">サンプル表示</text>
+    <text x="998" y="285" class="muted small">確認が必要な項目</text><text x="998" y="338" class="ink" font-size="38" font-weight="700">03</text><text x="1061" y="338" fill="#6676db" class="small">サンプル表示</text>
+    <rect x="282" y="405" width="680" height="402" rx="16" fill="#fff" stroke="#e5ebf2"/>
+    <text x="308" y="444" class="ink cardtitle">最近の案件</text><text x="855" y="443" class="muted small">一覧を見る　›</text>
+    <path d="M306 463H938" stroke="#edf1f6"/>
+    <text x="308" y="493" class="muted label">顧客・案件</text><text x="598" y="493" class="muted label">状況</text><text x="778" y="493" class="muted label">次の対応</text>
+    <path d="M306 510H938" stroke="#edf1f6"/>
+    <text x="308" y="547" class="ink body" font-weight="700">サンプル企業 A</text><text x="308" y="570" class="muted small">業務改善の相談</text><rect x="588" y="529" width="123" height="28" rx="14" fill="#edf0ff"/><text x="649" y="548" text-anchor="middle" fill="#4555c7" class="label">提案準備</text><text x="778" y="547" class="ink small">提案内容を整理</text>
+    <path d="M306 592H938" stroke="#edf1f6"/>
+    <text x="308" y="629" class="ink body" font-weight="700">サンプル企業 B</text><text x="308" y="652" class="muted small">運用フローの見直し</text><rect x="588" y="611" width="123" height="28" rx="14" fill="#e6f7f2"/><text x="649" y="630" text-anchor="middle" fill="#21856d" class="label">確認中</text><text x="778" y="629" class="ink small">担当者と日程調整</text>
+    <path d="M306 674H938" stroke="#edf1f6"/>
+    <text x="308" y="711" class="ink body" font-weight="700">サンプル企業 C</text><text x="308" y="734" class="muted small">新規相談</text><rect x="588" y="693" width="123" height="28" rx="14" fill="#fff4dd"/><text x="649" y="712" text-anchor="middle" fill="#9b6c10" class="label">初回相談</text><text x="778" y="711" class="ink small">ヒアリング内容を記録</text>
+    <rect x="984" y="405" width="344" height="402" rx="16" fill="#fff" stroke="#e5ebf2"/>
+    <text x="1010" y="444" class="ink cardtitle">今日の次回対応</text><text x="1010" y="477" class="muted small">優先順位を確認して、対応漏れを防ぐ</text>
+    <circle cx="1024" cy="526" r="7" fill="#e69a39"/><text x="1045" y="523" class="ink body" font-weight="700">提案資料の確認</text><text x="1045" y="547" class="muted small">サンプル企業 A</text><text x="1278" y="535" text-anchor="end" fill="#966717" class="label">今日</text>
+    <path d="M1010 567H1302" stroke="#edf1f6"/>
+    <circle cx="1024" cy="610" r="7" fill="#5969d8"/><text x="1045" y="607" class="ink body" font-weight="700">日程の候補を送る</text><text x="1045" y="631" class="muted small">サンプル企業 B</text><text x="1278" y="619" text-anchor="end" fill="#5969d8" class="label">明日</text>
+    <path d="M1010 651H1302" stroke="#edf1f6"/>
+    <circle cx="1024" cy="694" r="7" fill="#37a386"/><text x="1045" y="691" class="ink body" font-weight="700">初回相談の準備</text><text x="1045" y="715" class="muted small">サンプル企業 C</text><text x="1278" y="703" text-anchor="end" fill="#21856d" class="label">10/02</text>
+    <rect x="1010" y="751" width="292" height="36" rx="10" fill="#f3f5ff"/><text x="1156" y="774" text-anchor="middle" fill="#4a5ac8" class="small" font-weight="700">対応状況を一覧で確認　›</text>
+    <text x="282" y="849" class="muted small">画面項目・件数・会社名はすべて架空のサンプルです。</text>
+  </g>
+</svg>
